@@ -102,7 +102,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         context.user_data["awaiting_input"] = None
         await update.message.reply_text(f"✅ تم العثور على الدولة وإضافتها: {text}")
 
-if __name__ == "__main__"8887237109:AAEFRaH5SUwgGbOytQW456ynnlz3uQ3hJKY"
+if __name__ == "__main__"8887237109:8887237109:"AAEFRaH5SUwgGbOytQW456ynnlz3uQ3hJKY"
 
     app = ApplicationBuilder().token("8887237109:AAEvWP5C_Xou9UluRoJgkfBMrGjoJBD9ExA").build()
 
